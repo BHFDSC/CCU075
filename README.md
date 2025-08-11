@@ -18,6 +18,8 @@ van der Goes MC et al. Patient and rheumatologist perspectives on glucocorticoid
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
+* [CCU075_01: Incidence and prevalence of Takayasu arteritis in England before and after the COVID-19 pandemic](https://github.com/BHFDSC/CCU075_01)
+
 > Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
 
 ## Project approval
